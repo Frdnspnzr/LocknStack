@@ -1,0 +1,325 @@
+[
+  {
+    "id": "hpl805",
+    "name": "HPL 805",
+    "width": 108,
+    "depth": 88,
+    "height": 48,
+    "volume": 180
+  },
+  {
+    "id": "hpl806",
+    "name": "HPL 806",
+    "width": 135,
+    "depth": 102,
+    "height": 52,
+    "volume": 350
+  },
+  {
+    "id": "hpl807",
+    "name": "HPL 807",
+    "width": 135,
+    "depth": 102,
+    "height": 68,
+    "volume": 470
+  },
+  {
+    "id": "hpl808",
+    "name": "HPL 808",
+    "width": 135,
+    "depth": 102,
+    "height": 118,
+    "volume": 850
+  },
+  {
+    "id": "hpl808H",
+    "name": "HPL 808H",
+    "width": 135,
+    "depth": 102,
+    "height": 166,
+    "volume": 1200
+  },
+  {
+    "id": "hpl809",
+    "name": "HPL 808",
+    "width": 135,
+    "depth": 102,
+    "height": 185,
+    "volume": 1300
+  },
+  {
+    "id": "hpl810",
+    "name": "HPL 810",
+    "width": 151,
+    "depth": 108,
+    "height": 145,
+    "volume": 360
+  },
+  {
+    "id": "hpl811",
+    "name": "HPL 811",
+    "width": 151,
+    "depth": 108,
+    "height": 69,
+    "volume": 600
+  },
+  {
+    "id": "hpl812",
+    "name": "HPL 812",
+    "width": 151,
+    "depth": 108,
+    "height": 117,
+    "volume": 1000
+  },
+  {
+    "id": "hpl812h",
+    "name": "HPL 812H",
+    "width": 151,
+    "depth": 108,
+    "height": 160,
+    "volume": 1500
+  },
+  {
+    "id": "hpl813",
+    "name": "HPL 813",
+    "width": 151,
+    "depth": 108,
+    "height": 185,
+    "volume": 1800
+  },
+  {
+    "id": "hpl813l",
+    "name": "HPL 813L",
+    "width": 151,
+    "depth": 108,
+    "height": 252,
+    "volume": 2400
+  },
+  {
+    "id": "hpl814",
+    "name": "HPL 814",
+    "width": 151,
+    "depth": 108,
+    "height": 58,
+    "volume": 460
+  },
+  {
+    "id": "hpl815",
+    "name": "HPL 815",
+    "width": 181,
+    "depth": 128,
+    "height": 52,
+    "volume": 550
+  },
+  {
+    "id": "hpl815m",
+    "name": "HPL 815M",
+    "width": 181,
+    "depth": 128,
+    "height": 68,
+    "volume": 850
+  },
+  {
+    "id": "hpl815d",
+    "name": "HPL 815D",
+    "width": 181,
+    "depth": 128,
+    "height": 88,
+    "volume": 1100
+  },
+  {
+    "id": "hpl815l",
+    "name": "HPL 815L",
+    "width": 181,
+    "depth": 128,
+    "height": 52,
+    "volume": 550,
+    "extra": true
+  },
+  {
+    "id": "hpl816",
+    "name": "HPL 816",
+    "width": 205,
+    "depth": 134,
+    "height": 52,
+    "volume": 800
+  },
+  {
+    "id": "hpl817",
+    "name": "HPL 817",
+    "width": 205,
+    "depth": 134,
+    "height": 69,
+    "volume": 1000
+  },
+  {
+    "id": "hpl817h",
+    "name": "HPL 817H",
+    "width": 205,
+    "depth": 134,
+    "height": 85,
+    "volume": 1400
+  },
+  {
+    "id": "hpl818",
+    "name": "HPL 818",
+    "width": 250,
+    "depth": 134,
+    "height": 118,
+    "volume": 1900
+  },
+  {
+    "id": "hpl824",
+    "name": "HPL 824",
+    "width": 232,
+    "depth": 165,
+    "height": 69,
+    "volume": 1600
+  },
+  {
+    "id": "hpl825",
+    "name": "HPL 825",
+    "width": 232,
+    "depth": 165,
+    "height": 95,
+    "volume": 2300
+  },
+  {
+    "id": "hpl825h",
+    "name": "HPL 825H",
+    "width": 232,
+    "depth": 165,
+    "height": 125,
+    "volume": 3100
+  },
+  {
+    "id": "hpl826",
+    "name": "HPL 826",
+    "width": 248,
+    "depth": 180,
+    "height": 193,
+    "volume": 2600
+  },
+  {
+    "id": "hpl826m",
+    "name": "HPL 826M",
+    "width": 248,
+    "depth": 180,
+    "height": 76,
+    "volume": 2100
+  },
+  {
+    "id": "hpl827",
+    "name": "HPL 827",
+    "width": 248,
+    "depth": 180,
+    "height": 150,
+    "volume": 4500
+  },
+  {
+    "id": "hpl827h",
+    "name": "HPL 827H",
+    "width": 248,
+    "depth": 180,
+    "height": 150,
+    "volume": 4500,
+    "handle": true
+  },
+  {
+    "id": "hpl827m",
+    "name": "HPL 827M",
+    "width": 248,
+    "depth": 180,
+    "height": 120,
+    "volume": 3600
+  },
+  {
+    "id": "hpl829",
+    "name": "HPL 829",
+    "width": 232,
+    "depth": 165,
+    "height": 162,
+    "volume": 3900
+  },
+  {
+    "id": "hpl829h",
+    "name": "HPL 829H",
+    "width": 232,
+    "depth": 165,
+    "height": 162,
+    "volume": 3900,
+    "handle": true
+  },
+  {
+    "id": "hpl832",
+    "name": "HPL 832",
+    "width": 295,
+    "depth": 230,
+    "height": 68,
+    "volume": 2700
+  },
+  {
+    "id": "hpl834",
+    "name": "HPL 834",
+    "width": 295,
+    "depth": 230,
+    "height": 84,
+    "volume": 3900
+  },
+  {
+    "id": "hpl836",
+    "name": "HPL 836",
+    "width": 295,
+    "depth": 230,
+    "height": 118,
+    "volume": 5500
+  },
+  {
+    "id": "hpl838",
+    "name": "HPL 838",
+    "width": 295,
+    "depth": 230,
+    "height": 185,
+    "volume": 9000
+  },
+  {
+    "id": "hpl842",
+    "name": "HPL 842",
+    "width": 278,
+    "depth": 115,
+    "height": 60,
+    "volume": 1000
+  },
+  {
+    "id": "hpl843",
+    "name": "HPL 843",
+    "width": 278,
+    "depth": 115,
+    "height": 83,
+    "volume": 1600
+  },
+  {
+    "id": "hpl844",
+    "name": "HPL 844",
+    "width": 278,
+    "depth": 115,
+    "height": 103,
+    "volume": 2000
+  },
+  {
+    "id": "hpl846",
+    "name": "HPL 846",
+    "width": 330,
+    "depth": 131,
+    "height": 118,
+    "volume": 3400
+  },
+  {
+    "id": "hpl847",
+    "name": "HPL 847",
+    "width": 297,
+    "depth": 152,
+    "height": 60,
+    "volume": 1600
+  }
+]
