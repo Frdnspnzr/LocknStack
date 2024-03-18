@@ -31,12 +31,12 @@ export default function Container({ container }: Readonly<ContainerProps>) {
               <Text fw={900}>{container.name}</Text>
               {container?.handle && (
                 <Tooltip label="Has a handle">
-                  <IconHandStop size={16}/>
+                  <IconHandStop size={16} />
                 </Tooltip>
               )}
               {container?.extra && (
                 <Tooltip label="Has an extra">
-                  <IconStar size={16}/>
+                  <IconStar size={16} />
                 </Tooltip>
               )}
             </Group>
@@ -49,28 +49,28 @@ export default function Container({ container }: Readonly<ContainerProps>) {
           <Group justify="space-between">
             <Measure label="width">
               <NumberFormatter
-                suffix="cm"
+                suffix="mm"
                 thousandSeparator
                 value={container.width}
               />
             </Measure>
             <Measure label="depth">
               <NumberFormatter
-                suffix="cm"
+                suffix="mm"
                 thousandSeparator
                 value={container.depth}
               />
             </Measure>
             <Measure label="height">
               <NumberFormatter
-                suffix="cm"
+                suffix="mm"
                 thousandSeparator
                 value={container.height}
               />
             </Measure>
             <Measure label="volume">
               <NumberFormatter
-                suffix="ml"
+                suffix="mm"
                 thousandSeparator
                 value={container.volume}
               />
@@ -82,7 +82,9 @@ export default function Container({ container }: Readonly<ContainerProps>) {
         <Card.Section p="sm">
           <Group justify="center">
             {isCurrent && <Badge>Base container</Badge>}
-            {!isCurrent && multiplicator === 1 && <Badge color="green.4">Fits</Badge>}
+            {!isCurrent && multiplicator === 1 && (
+              <Badge color="green.4">Fits</Badge>
+            )}
             {!isCurrent && multiplicator > 1 && (
               <Badge color={`green.${Math.min(4 + multiplicator, 9)}`}>
                 Fits x{multiplicator}
